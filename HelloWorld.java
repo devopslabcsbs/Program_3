@@ -1,6 +1,6 @@
 package com.example;
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("DevOps CI/CD GitHub Actions!");
+        System.out.println("DevOps using CI/CD GitHub Actions!");
     }
 }
